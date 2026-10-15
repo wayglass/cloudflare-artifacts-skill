@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "source": "tpscloud/skillforge-ci",
+  "revision": "fbb2a790df2539441eaf5929d341216764a25367",
+  "sourceDirty": false,
+  "license": "MIT",
+  "contentHash": "aa049030b38cc45c29a600b44da6e667e1e4a59e7a795deb4a68cf6db4fc8df7",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "77595734b7d2834fcbc159c01723d10a686381044b3e2361a33157b8e8d18ce7"
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "5780ba0489325e662c0661c6f7216188dca1d64b1ac969d7ba75da4eb7f4a992"
+    },
+    {
+      "path": "checks.go",
+      "sha256": "3e39a9f9ee6d6f78dbaf72c15faef0f105dcb60a19a6ecf58b27ade193ac6621"
+    },
+    {
+      "path": "files.go",
+      "sha256": "0ea4aed9d5c55dfa11d901bebbfe5ed8ee250ce71a0aa6b977d8f7a4e438fdaa"
+    },
+    {
+      "path": "forksync.go",
+      "sha256": "28679bb68af482490773a1b5d4590c66e400cf71ea97e442fcbb33b55fb5aa52"
+    },
+    {
+      "path": "forksync_test.go",
+      "sha256": "7d1bee2ba746119f5092d7911f5daecbfc080a7cdfaafc8575cb8b0bfa58fb5f"
+    },
+    {
+      "path": "go.mod",
+      "sha256": "63ad526edc85c0dada08d61a6458d9f20f8afe62c9d2927ef1d86c6fd6179bb5"
+    },
+    {
+      "path": "go.sum",
+      "sha256": "7df59bf2645249b2a37845989422016cedb4d99c252e64fe90a0c1accdc0f7f6"
+    },
+    {
+      "path": "install.go",
+      "sha256": "92af2da0ee9c0383a2033540f44bcf5d4d694b2c22b8c163b5e7248d0f4fec68"
+    },
+    {
+      "path": "install_test.go",
+      "sha256": "220a912f5a3377f4e2577cec075d09ce7ff6dab921107ff14a7bcdf80f8c3ea4"
+    },
+    {
+      "path": "licenses/COBRA.txt",
+      "sha256": "5e3400b93bbb099e83e52bab885e7441750673c21f97988ca3f1240639b63283"
+    },
+    {
+      "path": "licenses/GITLEAKS.txt",
+      "sha256": "e3884b252b3bfc045e55be43a34d1e80da070bc6f804ac95bf4660e97d62ebc6"
+    },
+    {
+      "path": "licenses/GO.txt",
+      "sha256": "911f8f5782931320f5b8d1160a76365b83aea6447ee6c04fa6d5591467db9dad"
+    },
+    {
+      "path": "licenses/GOLDMARK.txt",
+      "sha256": "c1d6f653c38c80294dc7994647ba0dcc508ce64a86996303c804efa2f7982bff"
+    },
+    {
+      "path": "licenses/MOUSETRAP.txt",
+      "sha256": "4819582701f150b28a563a6cd8ed0bf5a754e3c67b90ad38d78ba4131bf77795"
+    },
+    {
+      "path": "licenses/PFLAG.txt",
+      "sha256": "b8514c577c1c4b46cee454d5a882b15fa411e72c5bd7f801f241591789fce61a"
+    },
+    {
+      "path": "licenses/YAML.txt",
+      "sha256": "d18f6323b71b0b768bb5e9616e36da390fbd39369a81807cca352de4e4e6aa0b"
+    },
+    {
+      "path": "main.go",
+      "sha256": "5a675118e494b45607a04f261f87fa192eeb10c40ba600a0d65368f54efee520"
+    },
+    {
+      "path": "scan.go",
+      "sha256": "0e0abdecb3636223ed2e41f607a98148aff06ac84bdafd58e38689cd4b0cbbb8"
+    },
+    {
+      "path": "scan_test.go",
+      "sha256": "1d6d5f29f3fdb345e10ca5c3c15fdf34697e85e883f5853f21c04cd56966d3c5"
+    },
+    {
+      "path": "source.json",
+      "sha256": "586a07f6b2a8034614c8ca012ef7ff42fe9ebf97a52406cd77310e426e7f2a00"
+    },
+    {
+      "path": "templates/fork-sync.yml",
+      "sha256": "2f9182b1b52fd246d4d86b833ef8fa6024e8e31533e2c8bd1382ff7a2340be85"
+    },
+    {
+      "path": "templates/skill-quality.yml",
+      "sha256": "7894427cb05c010f1a220332b9a09bf3fe5a94ce3160338b77dfc5a698e3cc8e"
+    },
+    {
+      "path": "validate.go",
+      "sha256": "4152a27a5c200b864bc593ad993b81363bcbe3f8c586393c27e8081af7346253"
+    },
+    {
+      "path": "validate_test.go",
+      "sha256": "68d68d465d14f887c926bc3c05f9ed55a52e62cb8c64e9cc9f3710d56f1e965a"
+    },
+    {
+      "path": ".github/workflows/skill-quality.yml",
+      "sha256": "7894427cb05c010f1a220332b9a09bf3fe5a94ce3160338b77dfc5a698e3cc8e"
+    }
+  ]
+}

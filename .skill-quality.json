@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "skills": [
+    "skills/cloudflare-artifacts/SKILL.md"
+  ],
+  "checks": []
+}
